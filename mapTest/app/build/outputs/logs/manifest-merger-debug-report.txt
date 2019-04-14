@@ -1,0 +1,201 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/da881848ea3421cc22f4d6e80e1c30c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c3acf6f9390cca96e01a4909ebb89fc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5e20ac64300604a9cd90e33d20bba40f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4c7c556c62a897b8301ed7ef0ee6b9b3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/55f7af24e363a7c0d8a3af7ec71a6005/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0e325ca4e15c43d8ac310618635712/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f1d58661e11435f97243694a7391c1d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f6fcf71ad0c0510426bb0c1eb76e9930/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/69923ea29c64b7d8599d99a01e804237/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fb1dc03362d3fbcf3226b1c2798554e8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c191d8cf6b774b8be9f7269afac5550/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/742b9c886b771417bc91ff4e3f6681bc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+	package
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:1-67:12
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:9:22-72
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:12:5-89
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:12:22-86
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:14:22-65
+application
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:16:5-65:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c3acf6f9390cca96e01a4909ebb89fc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c3acf6f9390cca96e01a4909ebb89fc/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:19:9-29
+	android:roundIcon
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:18:9-35
+	android:allowBackup
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:22:9-59
+meta-data#com.amap.api.v2.apikey
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:24:9-26:64
+	android:value
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:26:13-61
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:25:13-50
+activity#com.example.yangwenying.maptest.HomePage
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:28:19-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:32:27-74
+activity#com.example.yangwenying.maptest.MainActivity
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:37:9-40:51
+	android:screenOrientation
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:38:13-41
+activity#com.example.yangwenying.maptest.RecordActivity
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:41:9-44:52
+	android:screenOrientation
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:42:13-43
+activity#com.example.yangwenying.maptest.RecordShowActivity
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:45:9-48:52
+	android:screenOrientation
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:47:13-45
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:46:13-47
+service#com.amap.api.location.APSService
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:50:9-68
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:50:18-65
+service#com.example.yangwenying.maptest.LocationService
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:51:9-57:19
+	android:process
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:53:13-39
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:52:13-44
+intent-filter#action:name:com.example.yangwenying.maptest.LocationService
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:54:13-56:29
+action#com.example.yangwenying.maptest.LocationService
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:55:17-90
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:55:25-87
+service#com.example.yangwenying.maptest.LocationHelperService
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:58:9-64:19
+	android:process
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:60:13-39
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:59:13-50
+intent-filter#action:name:com.example.yangwenying.maptest.LocationHelperService
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:61:13-63:29
+action#com.example.yangwenying.maptest.LocationHelperService
+ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:62:17-96
+	android:name
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml:62:25-93
+uses-sdk
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/da881848ea3421cc22f4d6e80e1c30c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/da881848ea3421cc22f4d6e80e1c30c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c3acf6f9390cca96e01a4909ebb89fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/4c3acf6f9390cca96e01a4909ebb89fc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5e20ac64300604a9cd90e33d20bba40f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/5e20ac64300604a9cd90e33d20bba40f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4c7c556c62a897b8301ed7ef0ee6b9b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/4c7c556c62a897b8301ed7ef0ee6b9b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/55f7af24e363a7c0d8a3af7ec71a6005/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/55f7af24e363a7c0d8a3af7ec71a6005/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0e325ca4e15c43d8ac310618635712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/dc0e325ca4e15c43d8ac310618635712/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f1d58661e11435f97243694a7391c1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/f1d58661e11435f97243694a7391c1d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f6fcf71ad0c0510426bb0c1eb76e9930/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/f6fcf71ad0c0510426bb0c1eb76e9930/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/69923ea29c64b7d8599d99a01e804237/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/69923ea29c64b7d8599d99a01e804237/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fb1dc03362d3fbcf3226b1c2798554e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fb1dc03362d3fbcf3226b1c2798554e8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c191d8cf6b774b8be9f7269afac5550/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/5c191d8cf6b774b8be9f7269afac5550/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/742b9c886b771417bc91ff4e3f6681bc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/yangwenying/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/742b9c886b771417bc91ff4e3f6681bc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+		ADDED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/yangwenying/Desktop/Doc/TraceRecord/mapTest/app/src/main/AndroidManifest.xml
